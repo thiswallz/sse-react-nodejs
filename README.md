@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Simple SSE client/server
 
-- Run SSE server
+- Run SSE server (CORS enabled)
 
 ```sh
 cd server/
